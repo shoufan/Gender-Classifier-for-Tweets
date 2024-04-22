@@ -20,7 +20,7 @@ The dataset used in this project consists of Twitter tweets collected from vario
 To use the classifier:
 1. Ensure Python and the required libraries (e.g., pandas, numpy) are installed.
 2. Clone the repository and navigate to the project directory.
-3. Run the main script (`gender_classifier.py`) with the desired configuration.
+3. Run the main script (`python gender_classifier.py TRAIN_SIZE`) with the desired configuration, where TRAIN_SIZE is in the range 20-80.
 4. Follow the prompts to input sentences for classification.
 
 ## Results
