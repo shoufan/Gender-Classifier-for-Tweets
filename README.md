@@ -1,4 +1,4 @@
-# Naïve Bayes Gender Classifier for Twitter Tweets
+# Gender Classifier for Twitter Tweets
 
 ## Overview
 This project implements a Naïve Bayes classifier to predict the gender of Twitter users based on their tweets. It leverages natural language processing techniques to analyze the text content of tweets and classify them as either male or female. The classifier is trained on a labeled dataset containing tweets from male and female users.
